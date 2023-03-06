@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG20230304135515.jpg</filename>
+	<path>D:\Document\Project\Python\Jupyter\Select_cv\Data\train\IMG20230304135515.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3072</width>
+		<height>4096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kiwi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>1034</ymin>
+			<xmax>2275</xmax>
+			<ymax>2591</ymax>
+		</bndbox>
+	</object>
+</annotation>
